@@ -10,3 +10,5 @@ For most new players ~120-150 gold will be a good start for a bribe.
 Gain XP from success, even more from perfect offers.
 
 Most settings configurable within the MCM menu
+
+v0.1 is basic functionality. UI will be the next thing I need to work on. The mod should work the same as the OpenMW Lua one does in terms of functionality. 
